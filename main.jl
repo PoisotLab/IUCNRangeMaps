@@ -76,6 +76,7 @@ for sp in uniqueproperties(iucn)["Name"]
             end
         end
     end
+    # Save at the end of each species just to see the results
+    CSV.write("new_variables.csv", df)
 end
 
-CSV.write("new_variables.csv", df)
