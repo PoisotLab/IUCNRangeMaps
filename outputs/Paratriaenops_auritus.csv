@@ -1,0 +1,6 @@
+species,collection,item,asset,measure,value
+Paratriaenops auritus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,mean,83.86970588235297
+Paratriaenops auritus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,median,85.795
+Paratriaenops auritus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,maximum,92.19
+Paratriaenops auritus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,minimum,54.86
+Paratriaenops auritus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,std,6.913270988050624

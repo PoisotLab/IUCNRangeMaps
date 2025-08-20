@@ -1,0 +1,6 @@
+species,collection,item,asset,measure,value
+Glossophaga longirostris,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,mean,73.34400000000001
+Glossophaga longirostris,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,median,75.0
+Glossophaga longirostris,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,maximum,77.32
+Glossophaga longirostris,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,minimum,68.17
+Glossophaga longirostris,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,std,3.771542124913888

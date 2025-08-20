@@ -1,0 +1,6 @@
+species,collection,item,asset,measure,value
+Scotophilus robustus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,mean,61.53875000000001
+Scotophilus robustus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,median,61.504999999999995
+Scotophilus robustus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,maximum,71.05
+Scotophilus robustus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,minimum,55.41
+Scotophilus robustus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,std,5.442608191719427

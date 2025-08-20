@@ -1,0 +1,6 @@
+species,collection,item,asset,measure,value
+Mops tomensis,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,mean,75.5840786005269
+Mops tomensis,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,median,76.905
+Mops tomensis,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,maximum,99.46
+Mops tomensis,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,minimum,1.55
+Mops tomensis,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,std,18.383060927903706

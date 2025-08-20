@@ -1,0 +1,6 @@
+species,collection,item,asset,measure,value
+Pipistrellus aladdin,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,mean,30.982500000000005
+Pipistrellus aladdin,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,median,31.32
+Pipistrellus aladdin,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,maximum,39.35
+Pipistrellus aladdin,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,minimum,26.42
+Pipistrellus aladdin,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,std,4.3423125833395035

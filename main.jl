@@ -53,8 +53,9 @@ biab = STAC.Catalog("https://stac.geobon.org/")
 # / item / asset, so we just drop the names in a named tuple, which will make it much easier
 # later on
 layers_spec = [
-    # (collection="accessibility_to_cities", item="accessibility", asset="data"),
+    (collection="accessibility_to_cities", item="accessibility", asset="data"),
     (collection="bii_nhm", item="bii_nhm_10km_2020", asset="bii_nhm_10km_2020"),
+    (collection="ghmts", item="GHMTS", asset="GHMTS"),
 ]
 
 stats = [mean, median, maximum, minimum, std]
@@ -74,12 +75,12 @@ function prepare_summary(ranges, species, catalogue, layers, measures)
         if !iszero(count(L))
             for m in measures
                 push!(outputs, (
-                    species = species,
-                    collection = layer.collection,
-                    item = layer.item,
-                    asset = layer.asset,
-                    measure = string(m),
-                    value = m(L)
+                    species=species,
+                    collection=layer.collection,
+                    item=layer.item,
+                    asset=layer.asset,
+                    measure=string(m),
+                    value=m(L)
                 ))
             end
         end

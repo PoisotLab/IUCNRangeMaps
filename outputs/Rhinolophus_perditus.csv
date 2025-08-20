@@ -1,0 +1,6 @@
+species,collection,item,asset,measure,value
+Rhinolophus perditus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,mean,88.38978228890838
+Rhinolophus perditus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,median,91.69
+Rhinolophus perditus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,maximum,99.46
+Rhinolophus perditus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,minimum,25.03
+Rhinolophus perditus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,std,12.315621434746364

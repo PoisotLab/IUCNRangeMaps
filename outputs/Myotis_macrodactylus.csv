@@ -1,0 +1,6 @@
+species,collection,item,asset,measure,value
+Myotis macrodactylus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,mean,58.00222222222222
+Myotis macrodactylus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,median,60.24
+Myotis macrodactylus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,maximum,72.84
+Myotis macrodactylus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,minimum,45.14
+Myotis macrodactylus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,std,9.30006824945088

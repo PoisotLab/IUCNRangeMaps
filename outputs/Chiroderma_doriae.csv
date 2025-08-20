@@ -1,0 +1,6 @@
+species,collection,item,asset,measure,value
+Chiroderma doriae,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,mean,46.74442307692308
+Chiroderma doriae,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,median,44.945
+Chiroderma doriae,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,maximum,83.2
+Chiroderma doriae,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,minimum,22.85
+Chiroderma doriae,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,std,17.807234640532663

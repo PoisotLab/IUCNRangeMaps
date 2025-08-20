@@ -1,0 +1,6 @@
+species,collection,item,asset,measure,value
+Myotis fortidens,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,mean,61.73511486486478
+Myotis fortidens,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,median,61.035
+Myotis fortidens,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,maximum,91.21
+Myotis fortidens,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,minimum,27.59
+Myotis fortidens,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,std,12.689702196639626

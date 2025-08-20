@@ -1,0 +1,6 @@
+species,collection,item,asset,measure,value
+Eptesicus dimissus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,mean,41.42333333333334
+Eptesicus dimissus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,median,42.88
+Eptesicus dimissus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,maximum,49.93
+Eptesicus dimissus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,minimum,32.31
+Eptesicus dimissus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,std,6.872617162818447

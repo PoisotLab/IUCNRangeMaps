@@ -1,0 +1,6 @@
+species,collection,item,asset,measure,value
+Pteropus subniger,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,mean,30.820714285714292
+Pteropus subniger,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,median,35.58
+Pteropus subniger,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,maximum,48.71
+Pteropus subniger,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,minimum,5.8
+Pteropus subniger,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,std,14.73280925965305

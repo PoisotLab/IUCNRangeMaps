@@ -1,0 +1,6 @@
+species,collection,item,asset,measure,value
+Platyrrhinus chocoensis,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,mean,67.245
+Platyrrhinus chocoensis,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,median,68.52000000000001
+Platyrrhinus chocoensis,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,maximum,71.16
+Platyrrhinus chocoensis,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,minimum,60.78
+Platyrrhinus chocoensis,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,std,4.733557506428612

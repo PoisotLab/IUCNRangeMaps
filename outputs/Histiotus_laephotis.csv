@@ -1,0 +1,6 @@
+species,collection,item,asset,measure,value
+Histiotus laephotis,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,mean,60.52875
+Histiotus laephotis,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,median,58.41
+Histiotus laephotis,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,maximum,76.86
+Histiotus laephotis,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,minimum,46.29
+Histiotus laephotis,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,std,8.302889356523222

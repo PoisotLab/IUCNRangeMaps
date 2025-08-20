@@ -1,0 +1,6 @@
+species,collection,item,asset,measure,value
+Desmodus rotundus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,mean,79.23208955223883
+Desmodus rotundus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,median,81.14
+Desmodus rotundus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,maximum,93.66
+Desmodus rotundus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,minimum,47.83
+Desmodus rotundus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,std,11.218616770096173

@@ -1,0 +1,6 @@
+species,collection,item,asset,measure,value
+Myotis yumanensis,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,mean,83.22124384236457
+Myotis yumanensis,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,median,88.725
+Myotis yumanensis,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,maximum,97.19
+Myotis yumanensis,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,minimum,18.67
+Myotis yumanensis,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,std,15.216373046334894

@@ -1,0 +1,6 @@
+species,collection,item,asset,measure,value
+Myonycteris leptodon,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,mean,65.71663265306124
+Myonycteris leptodon,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,median,72.75999999999999
+Myonycteris leptodon,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,maximum,92.05
+Myonycteris leptodon,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,minimum,22.07
+Myonycteris leptodon,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,std,19.954032222739833

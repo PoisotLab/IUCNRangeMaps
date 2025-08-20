@@ -1,0 +1,6 @@
+species,collection,item,asset,measure,value
+Myotis nimbaensis,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,mean,76.95111111111112
+Myotis nimbaensis,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,median,79.22
+Myotis nimbaensis,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,maximum,81.46
+Myotis nimbaensis,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,minimum,70.61
+Myotis nimbaensis,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,std,3.924259307322993

@@ -1,0 +1,6 @@
+species,collection,item,asset,measure,value
+Rhinolophus acuminatus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,mean,81.337
+Rhinolophus acuminatus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,median,80.03
+Rhinolophus acuminatus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,maximum,90.52
+Rhinolophus acuminatus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,minimum,75.62
+Rhinolophus acuminatus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,std,4.3388794333148
