@@ -8,7 +8,14 @@ using STAC
 # Save the data
 using DataFrames
 using Statistics
+import Random
 import CSV
+
+# Make the data folder
+_out_dir = "outputs"
+if ~isdir(_out_dir)
+    mkdir(_out_dir)
+end
 
 # Function to get the rangemaps
 function load_shapefile(shapefile_dir)
@@ -46,34 +53,48 @@ biab = STAC.Catalog("https://stac.geobon.org/")
 # / item / asset, so we just drop the names in a named tuple, which will make it much easier
 # later on
 layers_spec = [
-    (collection="accessibility_to_cities", item="accessibility", asset="data"),
+    # (collection="accessibility_to_cities", item="accessibility", asset="data"),
     (collection="bii_nhm", item="bii_nhm_10km_2020", asset="bii_nhm_10km_2020"),
 ]
 
-# To create the dataframe, we need to have the type of the values as well as the column
-# name. To avoid making a super WIDE dataframe, we will simply use a key-value system to
-# have a LONG dataframe that we can then reshape
-df = DataFrame(sp=AbstractString[], collection=AbstractString[], item=AbstractString[], asset=AbstractString[], statistic=AbstractString[], value=Real[])
-
 stats = [mean, median, maximum, minimum, std]
 
-# And now we can get started with the retrieval
-for sp in uniqueproperties(iucn)["Name"]
-    @info "🦇  $(sp)"
-    _range = iucn[sp]
+function prepare_summary(ranges, species, catalogue, layers, measures)
+    fname = joinpath(_out_dir, replace(species, " " => "_") * ".csv")
+    if isfile(fname)
+        return nothing
+    end
+    _range = ranges[species]
     _bbox = SDT.boundingbox(_range)
-    for layer in layers_spec
-        @info "\t 🗺️  $(layer.collection)"
-        stac_asset = biab[layer.collection].items[layer.item].assets[layer.asset]
+    outputs = []
+    for layer in layers
+        stac_asset = catalogue[layer.collection].items[layer.item].assets[layer.asset]
         L = SDMLayer(stac_asset; _bbox...)
         mask!(L, _range)
         if !iszero(count(L))
-            for s in stats
-                push!(df, (sp, layer.collection, layer.item, layer.asset, "$(s)", s(L)))
+            for m in measures
+                push!(outputs, (
+                    species = species,
+                    collection = layer.collection,
+                    item = layer.item,
+                    asset = layer.asset,
+                    measure = string(m),
+                    value = m(L)
+                ))
             end
         end
     end
-    # Save at the end of each species just to see the results
-    CSV.write("new_variables.csv", df)
+    if ~isempty(outputs)
+        CSV.write(fname, DataFrame(outputs))
+    end
+    return isempty(outputs) ? nothing : DataFrame(outputs)
 end
 
+# Demo
+#prepare_summary(iucn, "Artibeus jamaicensis", biab, layers_spec, stats)
+
+# We do the species in random order
+sp_names = Random.shuffle(uniqueproperties(iucn)["Name"])
+
+# Now we run these chunks in parallel
+tasks = fetch.([Threads.@spawn prepare_summary(iucn, sp, biab, layers_spec, stats) for sp in sp_names])
