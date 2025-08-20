@@ -50,9 +50,6 @@ layers_spec = [
     (collection="bii_nhm", item="bii_nhm_10km_2020", asset="bii_nhm_10km_2020"),
 ]
 
-# This will have the actual objects that we can pass through SDMLayer to get the data
-biab_sources = [biab[s.collection].items[s.item].assets[s.data] for s in layers_spec]
-
 # To create the dataframe, we need to have the type of the values as well as the column
 # name. To avoid making a super WIDE dataframe, we will simply use a key-value system to
 # have a LONG dataframe that we can then reshape
