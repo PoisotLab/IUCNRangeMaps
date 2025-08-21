@@ -78,11 +78,7 @@ layers_spec = [
 
 stats = [mean, median, maximum, minimum, std]
 
-function prepare_summary(ranges, species, catalogue, layers, measures; verbose::Bool=false)
-
-    if verbose
-        @info "🦇  $(species)"
-    end
+function prepare_summary(ranges, species, catalogue, layers, measures)
 
     # This is the name of the expected output file
     fname = joinpath(_out_dir, replace(species, " " => "_") * ".csv")
@@ -153,5 +149,20 @@ end
 # We do the species in random order
 sp_names = Random.shuffle(uniqueproperties(iucn)["Name"])
 
+# We do batches of 10 species at a time
+sp_partition = Base.Iterators.partition(sp_names, 10)
+
+# This block is here to run the groups of species in parallel -- they start 10 at a time
+tasks = map(sp_partition) do partition
+    for sp in partition
+        @info "🦇 $(sp)"
+    end
+    return Threads.@spawn begin
+        for sp in partition
+            prepare_summary(iucn, sp, biab, layers_spec, stats)
+        end
+    end
+end
+
 # Now we run these chunks in parallel
-tasks = fetch.([Threads.@spawn prepare_summary(iucn, sp, biab, layers_spec, stats; verbose=true) for sp in sp_names])
+results = fetch.(tasks)
