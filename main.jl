@@ -19,27 +19,45 @@ end
 
 # Function to get the rangemaps
 function load_shapefile(shapefile_dir)
+
+    # This is a little alias to make the rest of the code easier to write, as we are not
+    # working with the polygon package itself
     Pol = SpeciesDistributionToolkit.SimpleSDMPolygons
+
+    # We read the shapefile from its directory -- note that this assumes that there is
+    # a single shapefile + associated metadata per directory
     sf_table, _ = Pol._read(Pol._Shapefile, shapefile_dir)
 
+    # We need to get the coordinates for all elements in the geometry
+    # NOTE: I'm not sure this is actually true, we should be able to read only the species
+    # we care about
     mps = Pol.GI.coordinates.(sf_table.geometry)
+
+    # This is the full list of scientific names in the IUCN data
     taxa_labels = getproperty(sf_table, :sci_name)
 
     # We ONLY get the bats here - this needs to be abstracted away eventually
     chiros = findall(isequal("CHIROPTERA"), sf_table.order_)
     taxa_labels = taxa_labels[chiros]
 
+    # The feats collection will store spatial features (one for each taxa)
     feats = []
+
     for sp in unique(taxa_labels)
+        # This is the position of all geometries for this scientific name
         idx = findall(isequal(sp), taxa_labels)
 
-        # We need to set the CRS because reasons?
+        # We need to set the CRS again here, because it is not actually imported
         _crs = Pol.AG.importEPSG(4326)
+
+        # Each geometry is read as a multipolygon
         mp = MultiPolygon(Pol._add_crs(Pol.AG.createmultipolygon(mps[idx][1]), _crs))
 
+        # We add the feature AND its name (the taxa name)
         push!(feats, Feature(mp, Dict("Name" => sp)))
     end
 
+    # Everything is returned as a feature collection
     return FeatureCollection(feats)
 end
 
@@ -60,7 +78,12 @@ layers_spec = [
 
 stats = [mean, median, maximum, minimum, std]
 
-function prepare_summary(ranges, species, catalogue, layers, measures)
+function prepare_summary(ranges, species, catalogue, layers, measures; verbose::Bool=false)
+
+    if verbose
+        @info "🦇  $(species)"
+    end
+
     # This is the name of the expected output file
     fname = joinpath(_out_dir, replace(species, " " => "_") * ".csv")
 
@@ -131,4 +154,4 @@ end
 sp_names = Random.shuffle(uniqueproperties(iucn)["Name"])
 
 # Now we run these chunks in parallel
-tasks = fetch.([Threads.@spawn prepare_summary(iucn, sp, biab, layers_spec, stats) for sp in sp_names])
+tasks = fetch.([Threads.@spawn prepare_summary(iucn, sp, biab, layers_spec, stats; verbose=true) for sp in sp_names])
