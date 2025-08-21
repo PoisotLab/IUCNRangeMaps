@@ -61,19 +61,45 @@ layers_spec = [
 stats = [mean, median, maximum, minimum, std]
 
 function prepare_summary(ranges, species, catalogue, layers, measures)
+    # This is the name of the expected output file
     fname = joinpath(_out_dir, replace(species, " " => "_") * ".csv")
+
+    # If the output file is already here, we skip this species -- this is useful if we want
+    # to re-start the process later without re-doing species for which we have the results
     if isfile(fname)
         return nothing
     end
+
+    # We extract the range from the object containing the spatial features
     _range = ranges[species]
+
+    # This is the bounding box of the range, so we store it once for all sources of
+    # information on this species
     _bbox = SDT.boundingbox(_range)
+
+    # We start an empty collection in which we will put named tuples that will become the
+    # rows of a data frame
     outputs = []
+
+    # Now for each layer -- actually defined as a named tuple for access to the STAC
+    # catalogue -- we start extracting information
     for layer in layers
+        # The first step is to get the data itself
         stac_asset = catalogue[layer.collection].items[layer.item].assets[layer.asset]
         L = SDMLayer(stac_asset; _bbox...)
+
+        # And then we clip it with the bounding box of the species
         mask!(L, _range)
+
+        # If there are no cells in the layer, which can happen with species with super
+        # small ranges and layers with poor resolution, we don't do anything
         if !iszero(count(L))
+
+            # For every measure we want to apply to the layer...
             for m in measures
+
+                # We add the output of applying this measure, as well as information about
+                # the species and data, to the outputs collection
                 push!(outputs, (
                     species=species,
                     collection=layer.collection,
@@ -85,10 +111,17 @@ function prepare_summary(ranges, species, catalogue, layers, measures)
             end
         end
     end
+
+    # If we have at least one entry in outputs...
     if ~isempty(outputs)
-        CSV.write(fname, DataFrame(outputs))
+        # We change the outputs into a data frame
+        df = DataFrame(outputs)
+        # We save it
+        CSV.write(fname, df)
+        # And we return the filename
+        return fname
     end
-    return isempty(outputs) ? nothing : DataFrame(outputs)
+    return nothing
 end
 
 # Demo
