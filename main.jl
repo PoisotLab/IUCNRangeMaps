@@ -53,9 +53,9 @@ biab = STAC.Catalog("https://stac.geobon.org/")
 # / item / asset, so we just drop the names in a named tuple, which will make it much easier
 # later on
 layers_spec = [
-    (collection="accessibility_to_cities", item="accessibility", asset="data"),
+    # (collection="accessibility_to_cities", item="accessibility", asset="data"),
     (collection="bii_nhm", item="bii_nhm_10km_2020", asset="bii_nhm_10km_2020"),
-    (collection="ghmts", item="GHMTS", asset="GHMTS"),
+    # (collection="ghmts", item="GHMTS", asset="GHMTS"),
 ]
 
 stats = [mean, median, maximum, minimum, std]
