@@ -1,0 +1,6 @@
+species,collection,item,asset,measure,value
+Hipposideros pygmaeus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,mean,39.3375
+Hipposideros pygmaeus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,median,36.575
+Hipposideros pygmaeus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,maximum,48.81
+Hipposideros pygmaeus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,minimum,33.5
+Hipposideros pygmaeus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,std,6.258769276554525

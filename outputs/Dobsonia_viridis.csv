@@ -1,0 +1,6 @@
+species,collection,item,asset,measure,value
+Dobsonia viridis,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,mean,59.65
+Dobsonia viridis,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,median,61.51
+Dobsonia viridis,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,maximum,75.61
+Dobsonia viridis,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,minimum,41.83
+Dobsonia viridis,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,std,16.966637851972912

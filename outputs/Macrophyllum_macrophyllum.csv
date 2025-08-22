@@ -1,0 +1,6 @@
+species,collection,item,asset,measure,value
+Macrophyllum macrophyllum,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,mean,70.88136363636362
+Macrophyllum macrophyllum,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,median,75.78
+Macrophyllum macrophyllum,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,maximum,97.71
+Macrophyllum macrophyllum,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,minimum,22.46
+Macrophyllum macrophyllum,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,std,17.93437339265058

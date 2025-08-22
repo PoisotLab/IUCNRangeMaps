@@ -1,0 +1,6 @@
+species,collection,item,asset,measure,value
+Eumops delticus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,mean,72.53402597402594
+Eumops delticus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,median,78.7
+Eumops delticus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,maximum,95.2
+Eumops delticus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,minimum,21.3
+Eumops delticus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,std,22.626131333141764

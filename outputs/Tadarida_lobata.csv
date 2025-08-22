@@ -1,0 +1,6 @@
+species,collection,item,asset,measure,value
+Tadarida lobata,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,mean,30.44666666666667
+Tadarida lobata,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,median,29.13
+Tadarida lobata,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,maximum,45.83
+Tadarida lobata,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,minimum,21.49
+Tadarida lobata,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,std,9.47949928354165

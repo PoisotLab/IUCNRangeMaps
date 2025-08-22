@@ -1,0 +1,6 @@
+species,collection,item,asset,measure,value
+Nyctinomops aurispinosus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,mean,67.32875
+Nyctinomops aurispinosus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,median,68.155
+Nyctinomops aurispinosus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,maximum,70.57
+Nyctinomops aurispinosus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,minimum,59.74
+Nyctinomops aurispinosus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,std,3.4068143372616344

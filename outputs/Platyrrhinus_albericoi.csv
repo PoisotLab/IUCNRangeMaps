@@ -1,0 +1,6 @@
+species,collection,item,asset,measure,value
+Platyrrhinus albericoi,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,mean,73.17215686274508
+Platyrrhinus albericoi,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,median,76.17
+Platyrrhinus albericoi,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,maximum,82.57
+Platyrrhinus albericoi,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,minimum,50.32
+Platyrrhinus albericoi,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,std,8.45677132568346

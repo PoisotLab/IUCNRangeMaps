@@ -1,0 +1,6 @@
+species,collection,item,asset,measure,value
+Pipistrellus imbricatus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,mean,28.272499999999997
+Pipistrellus imbricatus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,median,23.880000000000003
+Pipistrellus imbricatus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,maximum,48.92
+Pipistrellus imbricatus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,minimum,15.51
+Pipistrellus imbricatus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,std,8.39808491640552

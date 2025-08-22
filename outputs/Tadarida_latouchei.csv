@@ -1,0 +1,6 @@
+species,collection,item,asset,measure,value
+Tadarida latouchei,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,mean,81.48236173913027
+Tadarida latouchei,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,median,83.95
+Tadarida latouchei,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,maximum,97.19
+Tadarida latouchei,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,minimum,13.83
+Tadarida latouchei,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,std,11.433830278206214

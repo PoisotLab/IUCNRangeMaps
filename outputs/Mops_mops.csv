@@ -1,0 +1,6 @@
+species,collection,item,asset,measure,value
+Mops mops,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,mean,59.0825
+Mops mops,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,median,58.739999999999995
+Mops mops,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,maximum,75.77
+Mops mops,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,minimum,34.79
+Mops mops,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,std,13.818558690605698

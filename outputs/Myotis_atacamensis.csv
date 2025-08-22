@@ -1,0 +1,6 @@
+species,collection,item,asset,measure,value
+Myotis atacamensis,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,mean,82.84888888888888
+Myotis atacamensis,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,median,84.37
+Myotis atacamensis,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,maximum,88.85
+Myotis atacamensis,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,minimum,72.62
+Myotis atacamensis,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,std,5.840463261686617

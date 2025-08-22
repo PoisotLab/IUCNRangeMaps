@@ -1,0 +1,6 @@
+species,collection,item,asset,measure,value
+Rhinolophus silvestris,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,mean,41.49583333333334
+Rhinolophus silvestris,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,median,41.025000000000006
+Rhinolophus silvestris,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,maximum,47.25
+Rhinolophus silvestris,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,minimum,34.01
+Rhinolophus silvestris,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,std,2.528173282219306

@@ -1,0 +1,6 @@
+species,collection,item,asset,measure,value
+Vampyriscus nymphaea,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,mean,77.29220285261485
+Vampyriscus nymphaea,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,median,78.14
+Vampyriscus nymphaea,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,maximum,95.23
+Vampyriscus nymphaea,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,minimum,41.53
+Vampyriscus nymphaea,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,std,7.021430758872624

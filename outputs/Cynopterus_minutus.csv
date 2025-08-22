@@ -1,0 +1,6 @@
+species,collection,item,asset,measure,value
+Cynopterus minutus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,mean,76.30988853503172
+Cynopterus minutus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,median,79.785
+Cynopterus minutus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,maximum,98.91
+Cynopterus minutus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,minimum,16.08
+Cynopterus minutus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,std,15.081996911635652

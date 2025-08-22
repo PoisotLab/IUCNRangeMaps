@@ -1,0 +1,6 @@
+species,collection,item,asset,measure,value
+Hypsugo macrotis,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,mean,35.272
+Hypsugo macrotis,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,median,34.18
+Hypsugo macrotis,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,maximum,45.65
+Hypsugo macrotis,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,minimum,23.28
+Hypsugo macrotis,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,std,7.501329596430603

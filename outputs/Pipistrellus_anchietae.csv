@@ -1,0 +1,6 @@
+species,collection,item,asset,measure,value
+Pipistrellus anchietae,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,mean,79.29571428571428
+Pipistrellus anchietae,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,median,79.56
+Pipistrellus anchietae,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,maximum,84.71
+Pipistrellus anchietae,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,minimum,71.66
+Pipistrellus anchietae,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,std,4.389923526831483

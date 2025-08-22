@@ -1,0 +1,6 @@
+species,collection,item,asset,measure,value
+Promops centralis,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,mean,61.78213592233009
+Promops centralis,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,median,62.385
+Promops centralis,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,maximum,90.95
+Promops centralis,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,minimum,23.94
+Promops centralis,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,std,15.527012192006021

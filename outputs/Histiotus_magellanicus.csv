@@ -1,0 +1,6 @@
+species,collection,item,asset,measure,value
+Histiotus magellanicus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,mean,66.34635087719302
+Histiotus magellanicus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,median,66.77
+Histiotus magellanicus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,maximum,88.41
+Histiotus magellanicus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,minimum,41.48
+Histiotus magellanicus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,std,8.365223788481767

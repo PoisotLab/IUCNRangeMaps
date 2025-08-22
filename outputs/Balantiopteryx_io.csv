@@ -1,0 +1,6 @@
+species,collection,item,asset,measure,value
+Balantiopteryx io,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,mean,54.26298364354201
+Balantiopteryx io,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,median,52.64
+Balantiopteryx io,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,maximum,99.02
+Balantiopteryx io,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,minimum,0.52
+Balantiopteryx io,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,std,19.60257651549905

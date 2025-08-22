@@ -1,0 +1,6 @@
+species,collection,item,asset,measure,value
+Macroglossus minimus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,mean,49.69538461538462
+Macroglossus minimus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,median,49.49
+Macroglossus minimus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,maximum,51.79
+Macroglossus minimus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,minimum,47.8
+Macroglossus minimus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,std,1.1212613090073715

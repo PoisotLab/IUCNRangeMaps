@@ -1,0 +1,6 @@
+species,collection,item,asset,measure,value
+Pipistrellus paterculus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,mean,54.72869135802468
+Pipistrellus paterculus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,median,54.75
+Pipistrellus paterculus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,maximum,67.1
+Pipistrellus paterculus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,minimum,41.0
+Pipistrellus paterculus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,std,4.556105414775208

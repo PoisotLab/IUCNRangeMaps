@@ -1,0 +1,6 @@
+species,collection,item,asset,measure,value
+Miniopterus magnater,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,mean,73.36680000000001
+Miniopterus magnater,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,median,72.05
+Miniopterus magnater,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,maximum,87.18
+Miniopterus magnater,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,minimum,63.13
+Miniopterus magnater,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,std,7.315937351654488

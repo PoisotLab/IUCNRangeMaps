@@ -1,0 +1,6 @@
+species,collection,item,asset,measure,value
+Rhinolophus borneensis,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,mean,40.96254032258066
+Rhinolophus borneensis,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,median,36.485
+Rhinolophus borneensis,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,maximum,78.74
+Rhinolophus borneensis,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,minimum,21.62
+Rhinolophus borneensis,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,std,14.013190879376804

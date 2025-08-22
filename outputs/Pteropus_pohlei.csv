@@ -1,0 +1,6 @@
+species,collection,item,asset,measure,value
+Pteropus pohlei,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,mean,37.95777777777777
+Pteropus pohlei,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,median,36.06
+Pteropus pohlei,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,maximum,48.42
+Pteropus pohlei,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,minimum,31.66
+Pteropus pohlei,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,std,5.687151698736763

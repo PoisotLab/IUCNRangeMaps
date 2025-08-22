@@ -1,0 +1,6 @@
+species,collection,item,asset,measure,value
+Myotis myotis,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,mean,73.63999999999999
+Myotis myotis,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,median,70.34
+Myotis myotis,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,maximum,86.7
+Myotis myotis,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,minimum,63.98
+Myotis myotis,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,std,8.059105271540863

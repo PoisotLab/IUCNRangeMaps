@@ -1,0 +1,6 @@
+species,collection,item,asset,measure,value
+Otomops johnstonei,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,mean,65.50589928057553
+Otomops johnstonei,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,median,69.28
+Otomops johnstonei,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,maximum,76.94
+Otomops johnstonei,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,minimum,21.17
+Otomops johnstonei,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,std,10.455545426408658

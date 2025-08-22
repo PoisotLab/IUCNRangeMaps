@@ -1,0 +1,6 @@
+species,collection,item,asset,measure,value
+Phyllostomus latifolius,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,mean,61.93785714285715
+Phyllostomus latifolius,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,median,64.67500000000001
+Phyllostomus latifolius,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,maximum,75.09
+Phyllostomus latifolius,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,minimum,33.75
+Phyllostomus latifolius,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,std,11.286679131798504

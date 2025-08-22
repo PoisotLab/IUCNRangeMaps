@@ -1,0 +1,6 @@
+species,collection,item,asset,measure,value
+Nyctimene cephalotes,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,mean,60.168666666666674
+Nyctimene cephalotes,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,median,59.65
+Nyctimene cephalotes,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,maximum,77.23
+Nyctimene cephalotes,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,minimum,48.99
+Nyctimene cephalotes,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,std,8.55691119478298

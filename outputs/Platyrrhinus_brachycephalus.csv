@@ -1,0 +1,6 @@
+species,collection,item,asset,measure,value
+Platyrrhinus brachycephalus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,mean,51.67076923076923
+Platyrrhinus brachycephalus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,median,54.75
+Platyrrhinus brachycephalus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,maximum,62.28
+Platyrrhinus brachycephalus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,minimum,32.07
+Platyrrhinus brachycephalus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,std,8.92509893646233

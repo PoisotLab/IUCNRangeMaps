@@ -1,0 +1,6 @@
+species,collection,item,asset,measure,value
+Mops bivittatus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,mean,51.715
+Mops bivittatus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,median,53.295
+Mops bivittatus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,maximum,55.7
+Mops bivittatus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,minimum,44.57
+Mops bivittatus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,std,4.915122921487655

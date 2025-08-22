@@ -1,0 +1,6 @@
+species,collection,item,asset,measure,value
+Nyctinomops macrotis,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,mean,50.19028571428568
+Nyctinomops macrotis,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,median,49.86
+Nyctinomops macrotis,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,maximum,69.35
+Nyctinomops macrotis,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,minimum,33.26
+Nyctinomops macrotis,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,std,7.340795078542101

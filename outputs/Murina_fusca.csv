@@ -1,0 +1,6 @@
+species,collection,item,asset,measure,value
+Murina fusca,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,mean,84.26975356679633
+Murina fusca,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,median,89.0
+Murina fusca,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,maximum,97.15
+Murina fusca,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,minimum,29.87
+Murina fusca,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,std,12.962551218608029

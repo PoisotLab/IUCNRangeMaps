@@ -1,0 +1,6 @@
+species,collection,item,asset,measure,value
+Pipistrellus javanicus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,mean,51.00564102564105
+Pipistrellus javanicus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,median,51.04
+Pipistrellus javanicus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,maximum,64.61
+Pipistrellus javanicus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,minimum,38.05
+Pipistrellus javanicus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,std,5.21091703034449

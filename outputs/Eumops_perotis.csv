@@ -1,0 +1,6 @@
+species,collection,item,asset,measure,value
+Eumops perotis,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,mean,60.63695454545452
+Eumops perotis,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,median,61.305
+Eumops perotis,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,maximum,89.51
+Eumops perotis,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,minimum,21.94
+Eumops perotis,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,std,15.61270350625349

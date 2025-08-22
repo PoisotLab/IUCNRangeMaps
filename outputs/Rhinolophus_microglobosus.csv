@@ -1,0 +1,6 @@
+species,collection,item,asset,measure,value
+Rhinolophus microglobosus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,mean,39.392132179723504
+Rhinolophus microglobosus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,median,42.98
+Rhinolophus microglobosus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,maximum,81.41
+Rhinolophus microglobosus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,minimum,0.49
+Rhinolophus microglobosus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,std,15.39590953543193

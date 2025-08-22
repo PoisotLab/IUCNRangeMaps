@@ -1,0 +1,6 @@
+species,collection,item,asset,measure,value
+Rhinolophus mcintyrei,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,mean,31.37892857142857
+Rhinolophus mcintyrei,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,median,28.41
+Rhinolophus mcintyrei,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,maximum,64.16
+Rhinolophus mcintyrei,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,minimum,14.48
+Rhinolophus mcintyrei,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,std,13.638742367851354

@@ -1,0 +1,6 @@
+species,collection,item,asset,measure,value
+Rhinolophus malayanus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,mean,58.38394026186583
+Rhinolophus malayanus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,median,59.425
+Rhinolophus malayanus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,maximum,97.7
+Rhinolophus malayanus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,minimum,2.17
+Rhinolophus malayanus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,std,20.62398662073677

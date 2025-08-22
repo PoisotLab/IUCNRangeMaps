@@ -1,0 +1,6 @@
+species,collection,item,asset,measure,value
+Platyrrhinus fusciventris,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,mean,66.87181818181818
+Platyrrhinus fusciventris,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,median,69.16
+Platyrrhinus fusciventris,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,maximum,86.57
+Platyrrhinus fusciventris,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,minimum,44.2
+Platyrrhinus fusciventris,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,std,12.759293725110192

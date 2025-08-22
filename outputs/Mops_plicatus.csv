@@ -1,0 +1,6 @@
+species,collection,item,asset,measure,value
+Mops plicatus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,mean,76.06164095371669
+Mops plicatus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,median,75.94
+Mops plicatus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,maximum,83.37
+Mops plicatus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,minimum,64.06
+Mops plicatus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,std,4.636913895862846

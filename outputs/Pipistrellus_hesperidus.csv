@@ -1,0 +1,6 @@
+species,collection,item,asset,measure,value
+Pipistrellus hesperidus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,mean,61.81943633618508
+Pipistrellus hesperidus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,median,65.47
+Pipistrellus hesperidus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,maximum,96.24
+Pipistrellus hesperidus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,minimum,13.02
+Pipistrellus hesperidus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,std,22.041089164678436

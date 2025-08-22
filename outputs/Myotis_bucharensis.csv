@@ -1,0 +1,6 @@
+species,collection,item,asset,measure,value
+Myotis bucharensis,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,mean,28.212001721911324
+Myotis bucharensis,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,median,22.31
+Myotis bucharensis,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,maximum,65.26
+Myotis bucharensis,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,minimum,12.77
+Myotis bucharensis,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,std,11.352057457733563

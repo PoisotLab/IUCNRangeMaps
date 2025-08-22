@@ -1,0 +1,6 @@
+species,collection,item,asset,measure,value
+Myotis horsfieldii,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,mean,89.05516348773845
+Myotis horsfieldii,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,median,90.93
+Myotis horsfieldii,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,maximum,97.19
+Myotis horsfieldii,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,minimum,43.1
+Myotis horsfieldii,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,std,6.743337769283324

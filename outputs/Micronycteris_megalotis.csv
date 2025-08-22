@@ -1,0 +1,6 @@
+species,collection,item,asset,measure,value
+Micronycteris megalotis,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,mean,64.13
+Micronycteris megalotis,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,median,64.13
+Micronycteris megalotis,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,maximum,64.74
+Micronycteris megalotis,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,minimum,63.52
+Micronycteris megalotis,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,std,0.8626702730475847

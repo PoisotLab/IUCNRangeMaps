@@ -1,0 +1,6 @@
+species,collection,item,asset,measure,value
+Tonatia bidens,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,mean,68.57704545454547
+Tonatia bidens,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,median,69.07
+Tonatia bidens,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,maximum,90.68
+Tonatia bidens,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,minimum,46.31
+Tonatia bidens,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,std,11.586986802472703

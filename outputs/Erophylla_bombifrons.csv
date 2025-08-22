@@ -1,0 +1,6 @@
+species,collection,item,asset,measure,value
+Erophylla bombifrons,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,mean,69.40150390625003
+Erophylla bombifrons,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,median,71.16499999999999
+Erophylla bombifrons,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,maximum,89.55
+Erophylla bombifrons,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,minimum,45.38
+Erophylla bombifrons,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,std,8.953616171577256

@@ -1,0 +1,6 @@
+species,collection,item,asset,measure,value
+Molossus aztecus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,mean,29.805
+Molossus aztecus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,median,29.805
+Molossus aztecus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,maximum,33.32
+Molossus aztecus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,minimum,26.29
+Molossus aztecus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,std,4.97096067174143

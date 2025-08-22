@@ -1,0 +1,6 @@
+species,collection,item,asset,measure,value
+Pipistrellus papuanus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,mean,41.03052631578947
+Pipistrellus papuanus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,median,41.730000000000004
+Pipistrellus papuanus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,maximum,56.8
+Pipistrellus papuanus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,minimum,24.94
+Pipistrellus papuanus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,std,6.581763892128095

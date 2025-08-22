@@ -1,0 +1,6 @@
+species,collection,item,asset,measure,value
+Pipistrellus maderensis,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,mean,47.6977481617647
+Pipistrellus maderensis,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,median,47.394999999999996
+Pipistrellus maderensis,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,maximum,86.32
+Pipistrellus maderensis,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,minimum,11.64
+Pipistrellus maderensis,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,std,14.680323010785873

@@ -1,0 +1,6 @@
+species,collection,item,asset,measure,value
+Myotis peytoni,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,mean,70.74390804597705
+Myotis peytoni,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,median,72.145
+Myotis peytoni,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,maximum,88.29
+Myotis peytoni,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,minimum,38.44
+Myotis peytoni,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,std,10.115099839077287

@@ -1,0 +1,6 @@
+species,collection,item,asset,measure,value
+Baeodon gracilis,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,mean,71.59476747767177
+Baeodon gracilis,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,median,72.52
+Baeodon gracilis,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,maximum,99.35
+Baeodon gracilis,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,minimum,0.74
+Baeodon gracilis,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,std,18.82382375741195

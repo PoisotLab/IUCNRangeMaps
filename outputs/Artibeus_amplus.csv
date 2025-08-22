@@ -1,0 +1,6 @@
+species,collection,item,asset,measure,value
+Artibeus amplus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,mean,71.29714285714284
+Artibeus amplus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,median,71.66
+Artibeus amplus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,maximum,73.11
+Artibeus amplus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,minimum,66.99
+Artibeus amplus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,std,1.2608316568733011

@@ -1,0 +1,6 @@
+species,collection,item,asset,measure,value
+Eptesicus diminutus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,mean,51.82224137931035
+Eptesicus diminutus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,median,52.58
+Eptesicus diminutus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,maximum,58.0
+Eptesicus diminutus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,minimum,42.16
+Eptesicus diminutus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,std,3.3158905253041127

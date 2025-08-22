@@ -1,0 +1,6 @@
+species,collection,item,asset,measure,value
+Leptonycteris curasoae,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,mean,44.672277777777786
+Leptonycteris curasoae,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,median,42.105000000000004
+Leptonycteris curasoae,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,maximum,77.38
+Leptonycteris curasoae,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,minimum,26.16
+Leptonycteris curasoae,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,std,11.785689306798098

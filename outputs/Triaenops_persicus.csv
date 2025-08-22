@@ -1,0 +1,6 @@
+species,collection,item,asset,measure,value
+Triaenops persicus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,mean,60.09176470588236
+Triaenops persicus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,median,60.065
+Triaenops persicus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,maximum,65.75
+Triaenops persicus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,minimum,51.75
+Triaenops persicus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,std,3.1770459603015033

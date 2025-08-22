@@ -1,0 +1,6 @@
+species,collection,item,asset,measure,value
+Anoura aequatoris,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,mean,34.93117647058824
+Anoura aequatoris,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,median,32.4
+Anoura aequatoris,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,maximum,47.0
+Anoura aequatoris,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,minimum,25.38
+Anoura aequatoris,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,std,6.420436981188413

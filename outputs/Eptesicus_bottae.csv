@@ -1,0 +1,6 @@
+species,collection,item,asset,measure,value
+Eptesicus bottae,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,mean,55.00307692307692
+Eptesicus bottae,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,median,61.46
+Eptesicus bottae,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,maximum,64.74
+Eptesicus bottae,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,minimum,33.06
+Eptesicus bottae,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,std,10.598364169857678

@@ -1,0 +1,6 @@
+species,collection,item,asset,measure,value
+Miniopterus inflatus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,mean,83.87308322824718
+Miniopterus inflatus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,median,86.225
+Miniopterus inflatus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,maximum,96.98
+Miniopterus inflatus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,minimum,29.68
+Miniopterus inflatus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,std,10.018729577591413

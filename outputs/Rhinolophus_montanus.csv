@@ -1,0 +1,6 @@
+species,collection,item,asset,measure,value
+Rhinolophus montanus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,mean,52.78649402390435
+Rhinolophus montanus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,median,53.37
+Rhinolophus montanus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,maximum,56.88
+Rhinolophus montanus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,minimum,41.84
+Rhinolophus montanus,bii_nhm,bii_nhm_10km_2020,bii_nhm_10km_2020,std,2.4619971687563162
