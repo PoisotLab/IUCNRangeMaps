@@ -149,20 +149,9 @@ end
 # We do the species in random order
 sp_names = Random.shuffle(uniqueproperties(iucn)["Name"])
 
-# We do batches of 10 species at a time
-sp_partition = Base.Iterators.partition(sp_names, 10)
-
 # This block is here to run the groups of species in parallel -- they start 10 at a time
-tasks = map(sp_partition) do partition
-    for sp in partition
-        @info "🦇 $(sp)"
-    end
-    return Threads.@spawn begin
-        for sp in partition
-            prepare_summary(iucn, sp, biab, layers_spec, stats)
-        end
-    end
+for sp in sp_names
+    @info "🦇 $(sp)"
+    prepare_summary(iucn, sp, biab, layers_spec, stats)
 end
 
-# Now we run these chunks in parallel
-results = fetch.(tasks)
